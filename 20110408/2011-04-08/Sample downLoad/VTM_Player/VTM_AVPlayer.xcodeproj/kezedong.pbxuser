@@ -1,0 +1,228 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* VTM_AVPlayerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {900.627, 483}}";
+			sepNavSelRange = "{193, 0}";
+			sepNavVisRange = "{49, 474}";
+		};
+	};
+	1D3623250D0F684500981E51 /* VTM_AVPlayerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1247.41, 1974}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 387}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* VTM_AVPlayer */ = {
+		activeExec = 0;
+		executables = (
+			B3B89FB8134EB66800339DC8 /* VTM_AVPlayer */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* VTM_AVPlayerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {859, 483}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 469}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* VTM_AVPlayerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019.83, 2268}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 388}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = B3B89FB8134EB66800339DC8 /* VTM_AVPlayer */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* VTM_AVPlayer */;
+		codeSenseManager = B3B89FCF134EB67600339DC8 /* Code sense */;
+		executables = (
+			B3B89FB8134EB66800339DC8 /* VTM_AVPlayer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					619,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 323925608;
+			PBXWorkspaceStateSaveDate = 323925608;
+		};
+		perUserProjectItems = {
+			B3B89FD0134EB85900339DC8 /* PBXTextBookmark */ = B3B89FD0134EB85900339DC8 /* PBXTextBookmark */;
+			B3B89FD1134EB85900339DC8 /* PBXTextBookmark */ = B3B89FD1134EB85900339DC8 /* PBXTextBookmark */;
+			B3B89FD2134EB85900339DC8 /* PBXTextBookmark */ = B3B89FD2134EB85900339DC8 /* PBXTextBookmark */;
+			B3B89FD3134EB85900339DC8 /* PBXTextBookmark */ = B3B89FD3134EB85900339DC8 /* PBXTextBookmark */;
+			B3B89FD4134EB85900339DC8 /* PBXTextBookmark */ = B3B89FD4134EB85900339DC8 /* PBXTextBookmark */;
+			B3B89FD5134EB85900339DC8 /* PBXBookmark */ = B3B89FD5134EB85900339DC8 /* PBXBookmark */;
+			B3B89FD6134EB85900339DC8 /* PlistBookmark */ = B3B89FD6134EB85900339DC8 /* PlistBookmark */;
+			B3B89FD7134EB85900339DC8 /* PBXTextBookmark */ = B3B89FD7134EB85900339DC8 /* PBXTextBookmark */;
+			B3B89FD8134EB85900339DC8 /* PBXTextBookmark */ = B3B89FD8134EB85900339DC8 /* PBXTextBookmark */;
+		};
+		sourceControlManager = B3B89FCE134EB67600339DC8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {859, 387}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 382}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* VTM_AVPlayer_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1009, 387}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 189}";
+		};
+	};
+	B3B89FB8134EB66800339DC8 /* VTM_AVPlayer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = VTM_AVPlayer;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B3B89FCE134EB67600339DC8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B3B89FCF134EB67600339DC8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B3B89FD0134EB85900339DC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* VTM_AVPlayerAppDelegate.m */;
+		name = "VTM_AVPlayerAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 387;
+		vrLoc = 0;
+	};
+	B3B89FD1134EB85900339DC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* VTM_AVPlayerViewController.h */;
+		name = "VTM_AVPlayerViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 469;
+		vrLoc = 0;
+	};
+	B3B89FD2134EB85900339DC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* VTM_AVPlayerViewController.m */;
+		name = "VTM_AVPlayerViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 388;
+		vrLoc = 0;
+	};
+	B3B89FD3134EB85900339DC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* VTM_AVPlayer_Prefix.pch */;
+		name = "VTM_AVPlayer_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 189;
+		vrLoc = 0;
+	};
+	B3B89FD4134EB85900339DC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 382;
+		vrLoc = 0;
+	};
+	B3B89FD5134EB85900339DC8 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 01996D211269BE2E00428BE2 /* Icon.png */;
+	};
+	B3B89FD6134EB85900339DC8 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* VTM_AVPlayer-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/kezedong/Desktop/AVFoundation Sample code/Sample downLoad/VTM_Player/VTM_AVPlayer-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	B3B89FD7134EB85900339DC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* VTM_AVPlayerAppDelegate.h */;
+		name = "VTM_AVPlayerAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 516;
+		vrLoc = 0;
+	};
+	B3B89FD8134EB85900339DC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* VTM_AVPlayerAppDelegate.h */;
+		name = "VTM_AVPlayerAppDelegate.h: 9";
+		rLen = 0;
+		rLoc = 193;
+		rType = 0;
+		vrLen = 474;
+		vrLoc = 49;
+	};
+}

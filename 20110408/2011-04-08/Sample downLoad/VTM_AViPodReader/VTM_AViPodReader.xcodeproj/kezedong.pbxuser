@@ -1,0 +1,180 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* VTM_AViPodReaderAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 483}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{103, 448}";
+		};
+	};
+	1D3623250D0F684500981E51 /* VTM_AViPodReaderAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3035.5, 1869}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2413, 349}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* VTM_AViPodReader */ = {
+		activeExec = 0;
+		executables = (
+			B3B89F8A134EB5CB00339DC8 /* VTM_AViPodReader */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* VTM_AViPodReaderViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041.51, 735}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{445, 502}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* VTM_AViPodReaderViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1399.12, 4284}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{6709, 551}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B3B89F8A134EB5CB00339DC8 /* VTM_AViPodReader */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* VTM_AViPodReader */;
+		codeSenseManager = B3B89FAB134EB5E400339DC8 /* Code sense */;
+		executables = (
+			B3B89F8A134EB5CB00339DC8 /* VTM_AViPodReader */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					842,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 323925451;
+			PBXWorkspaceStateSaveDate = 323925451;
+		};
+		perUserProjectItems = {
+			B3B89F9B134EB5E400339DC8 /* PBXTextBookmark */ = B3B89F9B134EB5E400339DC8 /* PBXTextBookmark */;
+			B3B89FB0134EB63E00339DC8 /* PBXBookmark */ = B3B89FB0134EB63E00339DC8 /* PBXBookmark */;
+			B3B89FB1134EB63E00339DC8 /* PBXTextBookmark */ = B3B89FB1134EB63E00339DC8 /* PBXTextBookmark */;
+			B3B89FB2134EB63E00339DC8 /* PBXTextBookmark */ = B3B89FB2134EB63E00339DC8 /* PBXTextBookmark */;
+			B3B89FB3134EB63E00339DC8 /* PBXTextBookmark */ = B3B89FB3134EB63E00339DC8 /* PBXTextBookmark */;
+			B3B89FB4134EB63E00339DC8 /* PBXTextBookmark */ = B3B89FB4134EB63E00339DC8 /* PBXTextBookmark */;
+		};
+		sourceControlManager = B3B89FAA134EB5E400339DC8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	B3B89F8A134EB5CB00339DC8 /* VTM_AViPodReader */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = VTM_AViPodReader;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B3B89F9B134EB5E400339DC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* VTM_AViPodReaderViewController.m */;
+		name = "VTM_AViPodReaderViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 300;
+		vrLoc = 0;
+	};
+	B3B89FAA134EB5E400339DC8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B3B89FAB134EB5E400339DC8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B3B89FB0134EB63E00339DC8 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 01997131126A86E300428BE2 /* Icon.png */;
+	};
+	B3B89FB1134EB63E00339DC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* VTM_AViPodReaderAppDelegate.h */;
+		name = "VTM_AViPodReaderAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 448;
+		vrLoc = 103;
+	};
+	B3B89FB2134EB63E00339DC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* VTM_AViPodReaderAppDelegate.m */;
+		name = "VTM_AViPodReaderAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 349;
+		vrLoc = 2413;
+	};
+	B3B89FB3134EB63E00339DC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* VTM_AViPodReaderViewController.h */;
+		name = "VTM_AViPodReaderViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 502;
+		vrLoc = 445;
+	};
+	B3B89FB4134EB63E00339DC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* VTM_AViPodReaderViewController.m */;
+		name = "VTM_AViPodReaderViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 551;
+		vrLoc = 6709;
+	};
+}
